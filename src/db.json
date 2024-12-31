@@ -1,0 +1,149 @@
+{
+  "products":[
+    {
+      "id":"1",
+      "brand":"samsung",
+      "categori": "tv",
+      "subCategori":"QLED",
+      "products": "75Q60D",
+      "listPrice":null,
+      "Price":60000
+    },
+    {
+      "id":"2",
+      "brand":"samsung",
+      "categori": "tv",
+      "subCategori":"QLED",
+      "products": "65Q60D",
+      "listPrice":null,
+      "Price":50000
+    },
+    {
+      "id":"3",
+      "brand":"samsung",
+      "categori": "tv",
+      "subCategori":"QLED",
+      "products": "65Q70D",
+      "listPrice":null,
+      "Price":58000
+    },
+    {
+      "id":"4",
+      "brand":"samsung",
+      "categori": "tv",
+      "subCategori":"QLED",
+      "products": "55Q60D",
+      "listPrice":null,
+      "Price":39500
+    },
+    {
+      "id":"5",
+      "brand":"samsung",
+      "categori": "tv",
+      "subCategori":"QLED",
+      "products": "50Q60D",
+      "listPrice":null,
+      "Price":31500
+    },
+    {
+      "id":"6",
+      "brand":"samsung",
+      "categori": "tv",
+      "subCategori":"LED",
+      "products": "65DU7000",
+      "listPrice":null,
+      "Price":37000
+    },
+    {
+      "id":"7",
+      "brand":"samsung",
+      "categori": "tv",
+      "subCategori":"LED",
+      "products": "75DU7100",
+      "listPrice":null,
+      "Price":49000
+    },
+    {
+      "id":"8",
+      "brand":"samsung",
+      "categori": "tv",
+      "subCategori":"LED",
+      "products": "43DU7000",
+      "listPrice":null,
+      "Price":21000
+    },
+    {
+      "id":"9",
+      "brand":"samsung",
+      "categori": "tv",
+      "subCategori":"LED",
+      "products": "55DU7000",
+      "listPrice":null,
+      "Price":31000
+    },
+    {
+      "id":"10",
+      "brand":"samsung",
+      "categori": "tv",
+      "subCategori":"LED",
+      "products": "32T5300",
+      "listPrice":null,
+      "Price":14000
+    },
+    {
+      "id":"11",
+      "brand":"samsung",
+      "categori": "tv",
+      "subCategori":"QLED",
+      "products": "55LS03D",
+      "listPrice":null,
+      "Price":55000
+    },
+    {
+      "id":"12",
+      "brand":"samsung",
+      "categori": "tv",
+      "subCategori":"OLED",
+      "products": "55S90C",
+      "listPrice":null,
+      "Price":73000
+    },
+    {
+      "id":"13",
+      "brand":"samsung",
+      "categori": "tv",
+      "subCategori":"Neo QLED",
+      "products": "55QN85D",
+      "listPrice":null,
+      "Price":58000
+    },
+    {
+      "id":"14",
+      "brand":"samsung",
+      "categori": "tv",
+      "subCategori":"Neo QLED",
+      "products": "65QN85D",
+      "listPrice":null,
+      "Price":75000
+    },
+    {
+      "id":"15",
+      "brand":"samsung",
+      "categori": "buzdolabı",
+      "subCategori":"No-Frost Kombi",
+      "products": "RB45DG600EWW",
+      "listPrice":null,
+      "Price":36000
+    }
+  ],
+  "series":[
+    {"year":"2024","series":"Q60D", "type":"4K Tizen OS Smart TV", "features":["YENİ BASİT STANT Tipi","3 Çerçevesiz","4K (3,840 x 2,160)","50Hz Yenileme Hızı","20W Ses Çıkışı (RMS)","Tizen™ Smart TV","3 x HDMI","2 x USB-A","Wi-Fi 5","Bluetooth  (BT5.2)"]},
+    {"year":"2024","series":"Q70D", "type":"4K Tizen OS Smart TV", "features":["SLIM SIMPLE PLUS Stant Tipi","3 Çerçevesiz","Yapay Zeka 4K Görüntü Yükseltme", "4K (3,840 x 2,160)", "100Hz Yenileme Hızı", "20W Ses Çıkışı (RMS)","Tizen™ Smart TV","4 x HDMI","2 x USB-A","Wi-Fi 5","Bluetooth  (BT5.2)"]},
+    {"year":"2024","series":"DU7000", "type":"Crystal UHD TV", "features":["Altıgen Levha Stant Tipi","4K (3,840 x 2,160)","50Hz Yenileme Hızı","20W Ses Çıkışı (RMS)","Tizen™ Smart TV","3 x HDMI","1 x USB-A","Wi-Fi 5","Bluetooth  (BT5.2)"]},
+    {"year":"2020","series":"T5300", "type":"FHD Smart TV", "features":["Mini Kavis Stant Tipi","FHD (1,920 x 1,080)","2 x HDMI","1 x USB-A","20W Ses Çıkışı (RMS)", "WiFi4"]},
+    {"year":"2024","series":"LS03D", "type":"Tablo TV", "features":["Basit Stant Tipi","4K (3,840 x 2,160)","4 x HDMI","2 x USB-A","Wi-Fi 5","Bluetooth  (BT5.2)"]},
+    {"year":"2023","series":"S90C", "type":"4K Tizen OS Smart TV","features":[]},
+    {"year":"2024","series":"QN85D","type":"4K Tizen OS Smart TV", "features":[]},
+    {"year":"2024","series":"45DG600","type":"","features":[]}
+  ]
+}

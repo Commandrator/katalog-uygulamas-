@@ -1,0 +1,12 @@
+{
+  "name": "fiyat_ugulamasi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --env-file-if-exists=.env index.js"
+  },
+  "author": "Talha Yaşar <talha_6152@hotmail.com>",
+  "license": "ISC",
+  "description": ""
+}
